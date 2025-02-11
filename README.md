@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# Game 2048
 This project is a 2048 game implementation, showcasing the use of modern web technologies to create an engaging and interactive experience.
 
 ## Demo links
